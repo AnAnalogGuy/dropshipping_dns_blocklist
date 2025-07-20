@@ -7,3 +7,5 @@ This list is compiled and provided of a best effort/best knowledge basis. False 
 False positives can be reported using "Issues" or be removed by pull request. Please only one URL per issue and pull request. Please a a short comment why an URL is considered being a dropshipping shop. Please check the related guide. 
 
 Adding a new dropshipping shop can be requested either as a pull request. Please only one URL per issue and pull request. Please add a short comment why an URL should be removed/is considered being a false positive. Please add a related statement if you are the operator or holder of the related shop or domain. Please check the related guide.
+
+The core of the blocklist is based on the open source contribution from Konsumentenschutz Schweiz. 
